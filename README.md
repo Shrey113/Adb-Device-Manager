@@ -39,11 +39,11 @@
 ## ✨ Key Features
 
 <div align="center">
-  <table>
+  <table style="border-spacing: 20px;"> <!-- Adds spacing between rows -->
     <tr>
       <td align="center">
         <img src="images/key_features/multiple_apps.png" width="800"><br>
-        <b>App Listing</b><br>
+        <b>Multiple App Management</b><br>
         Easily launch multiple apps in separate windows for better multitasking.
       </td>
     </tr>
@@ -54,8 +54,15 @@
         Multi-pane, tabbed file browsing with a modern Windows 11 Fluent design.
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <b>Download to View More</b><br>
+        Get access to more features by downloading the application now.
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 ### 🏆 Premium Capabilities
