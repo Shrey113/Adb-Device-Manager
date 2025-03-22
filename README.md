@@ -42,7 +42,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="assets/images/feature-explorer.png" width="100"><br>
+        <img src="images/key_features/Explorer.png" width="100"><br>
         <b>Advanced Explorer</b><br>
         Multi-pane, tabbed file browsing with Windows 11 Fluent design
       </td>
