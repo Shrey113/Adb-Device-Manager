@@ -1,7 +1,7 @@
 # ADB Manager for Windows
 
 <div align="center">
-  <img src="assets/images/logo.png" alt="ADB Manager Logo" width="200"/>
+  <img src="images/_my_app/app_png.png" alt="ADB Manager Logo" width="200"/>
   <h3>The Ultimate Android Device Management Solution for Windows</h3>
   
   [![Release](https://img.shields.io/badge/Release-v1.1.0-blue.svg)](https://github.com/yourusername/adb_file_manager/releases)
