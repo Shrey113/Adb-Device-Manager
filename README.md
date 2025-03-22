@@ -46,18 +46,8 @@
         <b>Advanced Explorer</b><br>
         Multi-pane, tabbed file browsing with Windows 11 Fluent design
       </td>
-      <td align="center" width="33%">
-        <img src="assets/images/feature-ai.png" width="800"><br>
-        <b>AI Assistance</b><br>
-        Smart suggestions and automated organization options
-      </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="assets/images/feature-preview.png" width="800"><br>
-        <b>Rich Media Preview</b><br>
-        View texts, images, videos and documents without extraction
-      </td>
       <td align="center">
         <img src="assets/images/feature-analytics.png" width="800"><br>
         <b>Storage Intelligence</b><br>
