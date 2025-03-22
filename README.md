@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="images/key_features/other.png" width="500"><br>
+        <img src="images/key_features/other.png" width="700"><br>
         <b>Advanced Explorer</b><br>
         Multi-pane, tabbed file browsing with a modern Windows 11 Fluent design.
       </td>
