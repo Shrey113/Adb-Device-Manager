@@ -13,16 +13,11 @@
 <p align="center">
   <a href="#-key-features">Features</a> •
   <a href="#-installation">Installation</a> •
-  <a href="#-screenshots">Screenshots</a> •
   <a href="#-usage">Usage</a> •
   <a href="#-download">Download</a> •
   <a href="#-faq">FAQ</a> •
   <a href="#-support">Support</a>
 </p>
-
-<div align="center">
-  <img src="assets/images/app-showcase.png" alt="ADB Manager Showcase" width="90%"/>
-</div>
 
 ## 🚀 Reimagine Android File Management on Windows
 
@@ -55,9 +50,10 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <b>Download to View More</b><br>
-        Get access to more features by downloading the application now.
+      <td align="center" width="33%">
+        <img src="images/key_features/other.png" width="500"><br>
+        <b>Advanced Explorer</b><br>
+        Multi-pane, tabbed file browsing with a modern Windows 11 Fluent design.
       </td>
     </tr>
   </table>
@@ -74,16 +70,6 @@
 - **App Manager Pro**: Install, extract, backup and manage APK files with version tracking
 - **Remote Access**: Connect to devices over Wi-Fi without USB cables (same network)
 - **Developer Toolbox**: ADB shell access, logcat viewer, and developer shortcuts
-
-## 📷 Screenshots
-
-<div align="center">
-  <img src="assets/images/screenshot-main.png" width="45%"/>
-  <img src="assets/images/screenshot-transfer.png" width="45%"/>
-  <br/>
-  <img src="assets/images/screenshot-analytics.png" width="45%"/>
-  <img src="assets/images/screenshot-preview.png" width="45%"/>
-</div>
 
 ## 📥 Installation
 
@@ -102,12 +88,6 @@
 3. **Connect**: Attach your Android device via USB cable
 4. **Authorize**: Accept the USB debugging prompt on your Android device
 5. **Explore**: Start managing your files with unprecedented ease!
-
-<div align="center">
-  <a href="https://github.com/yourusername/adb_file_manager/releases/latest/download/ADBFileManager-Windows-Setup.exe">
-    <img src="assets/images/download-button.png" width="250"/>
-  </a>
-</div>
 
 ## 💻 Usage Highlights
 
@@ -188,19 +168,16 @@ Our help resources ensure you get the most from ADB Manager:
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="assets/images/avatar1.png" width="60" style="border-radius:50%"><br>
         <b>David K.</b> - Software Engineer<br>
         ⭐⭐⭐⭐⭐<br>
         <small><i>"Finally a file manager that doesn't make me want to throw my phone across the room. Lightning fast transfers and the terminal integration is perfect for dev work."</i></small>
       </td>
       <td width="33%" align="center">
-        <img src="assets/images/avatar2.png" width="60" style="border-radius:50%"><br>
         <b>Sarah T.</b> - Photographer<br>
         ⭐⭐⭐⭐⭐<br>
         <small><i>"I transfer thousands of RAW photos from my Android weekly. This tool cut my workflow time in half with batch processing and smart organization."</i></small>
       </td>
       <td width="33%" align="center">
-        <img src="assets/images/avatar3.png" width="60" style="border-radius:50%"><br>
         <b>Michael R.</b> - IT Admin<br>
         ⭐⭐⭐⭐⭐<br>
         <small><i>"Managing our company's 50+ test devices used to be a nightmare. Now I can batch update files across all connected devices simultaneously."</i></small>
@@ -239,15 +216,6 @@ We're continually improving ADB Manager with these planned additions:
 - **Multi-PC Sync**: Keep file operations in sync across multiple Windows computers
 - **Enhanced Security**: Biometric authentication for sensitive operations
 
-## 🤝 Connect With Us
-
-<div align="center">
-  <a href="https://github.com/yourusername/adb_file_manager"><img src="assets/images/github.png" width="40"/></a>
-  <a href="https://twitter.com/adbfilemanager"><img src="assets/images/twitter.png" width="40"/></a>
-  <a href="https://discord.gg/adbfilemanager"><img src="assets/images/discord.png" width="40"/></a>
-  <a href="https://www.youtube.com/c/adbfilemanager"><img src="assets/images/youtube.png" width="40"/></a>
-  <a href="https://www.reddit.com/r/adbfilemanager"><img src="assets/images/reddit.png" width="40"/></a>
-</div>
 
 ## 📄 License
 
