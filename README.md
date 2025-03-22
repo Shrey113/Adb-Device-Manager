@@ -42,36 +42,26 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="images/key_features/Explorer.png" width="100"><br>
+        <img src="images/key_features/Explorer.png" width="200"><br>
         <b>Advanced Explorer</b><br>
         Multi-pane, tabbed file browsing with Windows 11 Fluent design
       </td>
       <td align="center" width="33%">
-        <img src="assets/images/feature-transfer.png" width="100"><br>
-        <b>Lightning Transfers</b><br>
-        Multi-threaded file operations up to 10x faster than MTP
-      </td>
-      <td align="center" width="33%">
-        <img src="assets/images/feature-ai.png" width="100"><br>
+        <img src="assets/images/feature-ai.png" width="200"><br>
         <b>AI Assistance</b><br>
         Smart suggestions and automated organization options
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/images/feature-preview.png" width="100"><br>
+        <img src="assets/images/feature-preview.png" width="200"><br>
         <b>Rich Media Preview</b><br>
         View texts, images, videos and documents without extraction
       </td>
       <td align="center">
-        <img src="assets/images/feature-analytics.png" width="100"><br>
+        <img src="assets/images/feature-analytics.png" width="200"><br>
         <b>Storage Intelligence</b><br>
         Interactive visualization of device storage with cleanup tools
-      </td>
-      <td align="center">
-        <img src="assets/images/feature-automation.png" width="100"><br>
-        <b>Powerful Automation</b><br>
-        Scheduled backups, folder synchronization, and batch processing
       </td>
     </tr>
   </table>
