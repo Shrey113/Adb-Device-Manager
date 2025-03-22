@@ -41,21 +41,22 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="images/key_features/Explorer.png" width="800"><br>
-        <b>Advanced Explorer</b><br>
-        Multi-pane, tabbed file browsing with Windows 11 Fluent design
+      <td align="center">
+        <img src="images/key_features/multiple_apps.png" width="800"><br>
+        <b>App Listing</b><br>
+        Easily launch multiple apps in separate windows for better multitasking.
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="assets/images/feature-analytics.png" width="800"><br>
-        <b>Storage Intelligence</b><br>
-        Interactive visualization of device storage with cleanup tools
+      <td align="center" width="33%">
+        <img src="images/key_features/Explorer.png" width="800"><br>
+        <b>Advanced Explorer</b><br>
+        Multi-pane, tabbed file browsing with a modern Windows 11 Fluent design.
       </td>
     </tr>
   </table>
 </div>
+
 
 ### 🏆 Premium Capabilities
 
