@@ -4,7 +4,7 @@
   <img src="images/_my_app/app_png.png" alt="Android ADB Multi-Device Manager Logo" width="200"/>
   <h3>The Ultimate Android Device Management Solution for Windows</h3>
   
-  [![Release](https://img.shields.io/badge/Release-v1.1.0-blue.svg)](https://github.com/yourusername/android_multi_device_manager/releases)
+  [![Release](https://img.shields.io/badge/Release-v0.3-blue.svg)](https://github.com/yourusername/android_multi_device_manager/releases)
   [![Windows Build](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows)](https://www.microsoft.com/windows)
   [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
   [![License](https://img.shields.io/badge/License-GPL_v2-blue.svg)](LICENSE)
