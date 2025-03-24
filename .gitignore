@@ -3,8 +3,8 @@
 /adb_devices.iss
 .gitattributes
 # .gitignore
-./set_inno_files.py
 /build/
+/images/
 
 # Ignore environment files
 .env
