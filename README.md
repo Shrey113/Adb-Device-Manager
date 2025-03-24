@@ -8,6 +8,10 @@
   [![Windows Build](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows)](https://www.microsoft.com/windows)
   [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
   [![License](https://img.shields.io/badge/License-GPL_v2-blue.svg)](LICENSE)
+  
+  <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/" style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 28px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; margin-top: 15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    ⬇️ DOWNLOAD LATEST VERSION
+  </a>
 </div>
 
 <p align="center">
@@ -62,7 +66,7 @@
 
 ## 🏆 Premium Capabilities
 
-Experience a full-fledged Android environment directly on your Windows desktop. Whether you’re a developer, power user, or casual enthusiast, these premium features ensure seamless integration between your PC and Android devices—all while delivering a lively and intuitive user experience.
+Experience a full-fledged Android environment directly on your Windows desktop. Whether you're a developer, power user, or casual enthusiast, these premium features ensure seamless integration between your PC and Android devices—all while delivering a lively and intuitive user experience.
 
 1. **:iphone: Full Android Environment in Windows**  
    - **Multi-Window Interface:** Launch Android apps in separate, resizable windows, just like native Windows programs.  
@@ -75,12 +79,12 @@ Experience a full-fledged Android environment directly on your Windows desktop. 
    - **Multi-Device View:** Control and view multiple Android devices at once, each in its own window.
 
 3. **:loud_sound: Real-Time Audio Streaming**  
-   - **Full Audio Pass-Through:** Hear your device’s audio (music, notifications, calls) on your PC speakers or headset.  
+   - **Full Audio Pass-Through:** Hear your device's audio (music, notifications, calls) on your PC speakers or headset.  
    - **Volume & Mixing Controls:** Balance or mute different devices independently.  
    - **Synced Media Playback:** Watch videos or play games on your phone while listening to perfectly synced audio on your PC.
 
 4. **:keyboard: Keyboard & Mouse Sync**  
-   - **Complete Input Control:** Type, swipe, scroll, and tap using your PC’s keyboard and mouse.  
+   - **Complete Input Control:** Type, swipe, scroll, and tap using your PC's keyboard and mouse.  
    - **Advanced Shortcuts:** Assign hotkeys for common Android actions (Home, Back, Recents) or specific apps.  
    - **Gesture Emulation:** Simulate pinch-to-zoom, rotate, and other multi-touch gestures via your mouse or trackpad.
 
@@ -90,17 +94,17 @@ Experience a full-fledged Android environment directly on your Windows desktop. 
    - **Version Control:** Check app versions before installing or updating to maintain compatibility.
 
 6. **:camera: Full Camera Access**  
-   - **Remote Camera Control:** Open and use your phone’s camera from your PC, perfect for demonstrations or surveillance.  
+   - **Remote Camera Control:** Open and use your phone's camera from your PC, perfect for demonstrations or surveillance.  
    - **Multi-Lens Support:** Switch between wide-angle, telephoto, or selfie cams without touching your phone.  
    - **Capture & Save:** Snap photos or record video, saving them either on your phone or directly to your PC.
 
 7. **:telephone_receiver: Full Contacts & Call Management**  
    - **Contacts Sync:** Browse, edit, and manage your Android contact list in a dedicated Windows interface.  
-   - **Initiate Calls:** Dial numbers using your PC’s mic and speakers or a connected headset.  
+   - **Initiate Calls:** Dial numbers using your PC's mic and speakers or a connected headset.  
    - **Call Logs:** Access your complete call history, including missed, incoming, and outgoing calls.
 
 8. **:speech_balloon: SMS & Messaging Control**  
-   - **Send & Receive Messages:** Type text messages on your PC’s keyboard and view all conversation threads in an expanded window.  
+   - **Send & Receive Messages:** Type text messages on your PC's keyboard and view all conversation threads in an expanded window.  
    - **Media Attachments:** Drag and drop files or images from your PC into SMS/MMS conversations.  
    - **Instant Notifications:** Get pop-up alerts for new messages with quick-reply options.
 
@@ -136,6 +140,7 @@ Experience a full-fledged Android environment directly on your Windows desktop. 
 ### In-Depth Device Management
 - **Connection & Pairing:** Seamlessly connect devices through USB, QR code, or wireless ADB pairing. Detailed connection logs and status indicators help you track and manage each device.
 - **File Transfer & Synchronization:** Enjoy an advanced file transfer system that supports drag & drop, scheduled transfers, batch processing, and real-time synchronization between your PC and devices.
+- **Screen Mirroring & Casting:** Mirror your Android device's screen with minimal latency. Customize quality, resolution, and audio streaming options for the best viewing experience.
 - **Screen Mirroring & Casting:** Mirror your Android device’s screen with minimal latency. Customize quality, resolution, and audio streaming options for the best viewing experience.
 - **Application Control:** Open Android apps in separate windows, resize and rearrange them on your desktop, and use built-in shortcuts for enhanced multitasking.
 - **Notification Management:** View and manage incoming notifications with a fully customizable interface that lets you prioritize alerts and set up dedicated notification channels.
