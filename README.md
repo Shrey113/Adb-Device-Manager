@@ -1,10 +1,11 @@
-# ADB Manager for Windows
+
+# Android ADB Multi-Device Manager
 
 <div align="center">
-  <img src="images/_my_app/app_png.png" alt="ADB Manager Logo" width="200"/>
+  <img src="images/_my_app/app_png.png" alt="Android ADB Multi-Device Manager Logo" width="200"/>
   <h3>The Ultimate Android Device Management Solution for Windows</h3>
   
-  [![Release](https://img.shields.io/badge/Release-v1.1.0-blue.svg)](https://github.com/yourusername/adb_file_manager/releases)
+  [![Release](https://img.shields.io/badge/Release-v1.1.0-blue.svg)](https://github.com/yourusername/android_multi_device_manager/releases)
   [![Windows Build](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows)](https://www.microsoft.com/windows)
   [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
   [![License](https://img.shields.io/badge/License-GPL_v2-blue.svg)](LICENSE)
@@ -20,14 +21,15 @@
   <a href="#-support">Support</a>
 </p>
 
-## 🚀 Reimagine Android File Management on Windows
+## 🚀 Seamless Android Management on Windows
 
-**ADB Manager** transforms how Windows users interact with Android devices, replacing cumbersome command-line tools with an elegant, powerful graphical interface. Whether you're a developer, IT professional, or everyday user, our application makes managing Android files and controlling device functions as intuitive as using Windows Explorer.
+**Android ADB Multi-Device Manager** transforms how Windows users interact with Android devices, providing a comprehensive solution for managing multiple devices simultaneously. Built on ADB and scrcpy technology, our application delivers an intuitive interface for device control, screen mirroring, and file management with deep Windows integration.
 
-### Why Choose ADB Manager?
-- **Effortless Device Control:** Seamlessly connect, disconnect, and manage your Android devices.
-- **Enhanced Productivity:** Manage multiple devices and apps in parallel.
-- **Advanced Desktop Integration:** Experience full-screen mirroring, audio streaming, and interactive control.
+### Why Choose Our Multi-Device Manager?
+- **Multi-Device Control:** Connect and manage multiple Android devices simultaneously
+- **Seamless Desktop Integration:** Run Android apps directly in Windows-like windows
+- **Real-Time Synchronization:** Get notifications and call alerts directly on your PC
+- **Comprehensive Device Management:** Control screen, audio, files, contacts, and more
 
 ## ✨ Key Features
 
@@ -36,37 +38,38 @@
     <tr>
       <td align="center">
         <img src="images/key_features/multiple_apps.png" width="800"><br>
-        <b>Multiple App Management</b><br>
-        Easily launch and manage multiple apps in separate windows for enhanced multitasking.
+        <b>📱 Multi-Device Management</b><br>
+        Connect via USB, QR code scanning, or wireless ADB pairing for seamless control of multiple devices.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="images/key_features/Explorer.png" width="800"><br>
-        <b>Advanced Explorer</b><br>
-        Multi-pane, tabbed file browsing with a modern Windows 11 Fluent design.
+        <b>🖥️ Desktop Mode</b><br>
+        Experience Android apps in a Windows-like environment with multi-application handling and drag & drop window system.
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="images/key_features/other.png" width="700"><br>
-        <b>Desktop Mode Experience</b><br>
-        Full control over Android via screen mirroring, audio, input management, and more.
+        <b>🔗 Deep Windows Integration</b><br>
+        Leverage background services, startup support, and real-time notification/call sync with the companion Android app.
       </td>
     </tr>
   </table>
 </div>
 
 ### 🏆 Premium Capabilities
-- **🔄 Reconnect All:** Instantly reconnect all devices via ADB.
-- **🔌 Disconnect All:** Fully terminate all ADB and SCRCPY connections.
-- **🧹 Clear All:** Remove all ADB data for a fresh start.
-- **⚙️ Customizable Settings:** Tailor functionalities with an intuitive settings menu.
-- **📡 Server Module Integration:** Android companion app sends live call events and notifications directly to your Windows server.
-- **📱 Device Linking:** Use USB, QR Code, or Pairing Code to link new devices with guided, step-by-step instructions.
-- **🖥️ Screen Mirroring & Desktop Mode:** Interact with your Android device in full screen, transfer audio, and send keyboard/mouse inputs seamlessly.
-- **Secure File Management:** Drag & drop files, perform batch renames, and enjoy secure, direct transfers without cloud dependencies.
-- **Remote and Multi-Device Control:** Manage several devices concurrently and switch between them with ease.
+- **📱 Multi-Device Connection:** Connect via USB, QR Code, or Wireless ADB Pairing
+- **🖥️ Virtual Android Desktop:** Run Android apps as if they were Windows programs
+- **🔔 Notification & Call Sync:** Receive phone notifications and call alerts on Windows
+- **🎵 Screen & Audio Casting:** Mirror your device's screen and stream audio to your PC
+- **⌨️ Full Control:** Use your keyboard and mouse to interact with connected devices
+- **📂 File Management:** Transfer files between PC and Android devices with drag & drop
+- **📞 Contacts & Call Management:** Access your contacts, view call logs, and make calls from Windows
+- **🔄 Background Services:** Keep connections active even when the main app is closed
+- **🛠️ Non-ADB Tools:** Use standalone utilities like FTP management and local device discovery
+- **📦 App Management:** Download, update, and uninstall tools directly from the interface
 
 ## 📥 Installation
 
@@ -78,11 +81,11 @@
 - **Internet:** Required for installation and updates
 
 ### Simple Setup Process
-1. **Download:** Get the latest installer from our [official website](https://adbfilemanager.com/download) or [GitHub releases](https://github.com/yourusername/adb_file_manager/releases).
+1. **Download:** Get the latest installer from our [official website](https://androidmultidevicemanager.com/download) or [GitHub releases](https://github.com/yourusername/android_multi_device_manager/releases).
 2. **Install:** Run the installer with administrator privileges and follow the setup wizard.
-3. **Connect:** Attach your Android device via USB cable.
+3. **Connect:** Attach your Android device via USB cable or connect wirelessly.
 4. **Authorize:** Accept the USB debugging prompt on your Android device.
-5. **Explore:** Begin managing your device with ease!
+5. **Explore:** Begin managing your devices with ease!
 
 ## 💻 Usage Highlights
 
@@ -96,86 +99,84 @@
 </div>
 
 ### Common Tasks
-- **Basic Navigation:** Browse device storage with Windows Explorer-like controls.
-- **File Transfer:** Use drag & drop or copy/paste for effortless file movement.
-- **Device Backup:** Create full or selective backups with a single click.
-- **Photo & Media Management:** Organize, import, and edit your device photos and videos.
-- **Storage Cleanup:** Remove unnecessary files with Smart Cleanup recommendations.
+- **Device Connection:** Connect via USB, QR code, or wireless ADB pairing
+- **File Transfer:** Use drag & drop or the built-in FTP manager for wireless transfers
+- **Screen Mirroring:** Cast your device's screen to Windows with full control
+- **App Management:** Open Android apps in Windows-like windows for a desktop experience
+- **Notification Control:** Receive and manage Android notifications directly from your PC
 
 ### Pro Tips
-- **Keyboard Shortcuts:** Utilize standard shortcuts (Ctrl+C, Ctrl+V) for efficient navigation.
-- **Split View:** Toggle dual-pane mode (F8) for smooth drag-and-drop operations.
-- **Custom Filters:** Save and reuse search filters for specific file types.
-- **Batch Rename:** Rename multiple files using pattern-based options (e.g., "Vacation_{counter}").
-- **Quick Connect:** Save frequently used devices for instant reconnection.
+- **Multi-Device Workflow:** Switch between devices instantly for efficient management
+- **Background Service:** Keep the app running in the background for uninterrupted connectivity
+- **Custom Layouts:** Arrange Android app windows to create your ideal workspace
+- **Keyboard Shortcuts:** Use familiar Windows shortcuts to control Android apps
+- **Companion App:** Install our Android companion app for enhanced notification and call sync
 
 ## 🖥️ Desktop Mode
 
-Experience our revolutionary Desktop Mode—the core of ADB Manager.
+Experience our revolutionary Desktop Mode—a virtual Android environment within Windows.
 
-### Header Features
-- **Device Info:** View essential device information at a glance.
-- **🖼️ Change Wallpaper:** Customize your background with opacity settings.
+### Key Desktop Mode Features
+- **Multi-Application Handling:** Open and run multiple Android apps side by side
+- **Drag & Drop Window System:** Move, resize, and interact with Android apps like Windows programs
+- **Persistent App State:** Apps remain active even when switching between them
 
-### Bottom Bar Functionality
-- **🔳 Full-Screen Toggle:** Easily switch between full-screen and windowed modes.
-- **🔔 Notifications:** Get real-time notifications from your Android device.
-- **🔋 Battery & Bluetooth:** Monitor device battery levels and connectivity status.
-- **🕒 Time Display:** Keep track of current time on the interface.
+### Integrated Android Functions
+- **📇 Contacts & Call Logs:** View, edit, and manage your Android contacts from Windows
+- **📞 Call Management:** Check call history and make phone calls directly from your PC
+- **📷 Camera Access:** Use your phone's camera remotely from Windows
+- **📂 File Explorer:** Browse device storage and manage files seamlessly
+- **📦 APK Management:** Install and uninstall Android applications from your desktop
 
-### Central Control Panel
-- **🎵 Audio Streaming:** Click the song icon to stream audio from your Android.
-- **📺 Screen Mirroring:** Enjoy an interactive, full-screen mirroring session.
-- **⌨️ Input Control:** Seamlessly send keyboard and mouse inputs to your device.
-- **📷 Camera Module:** Choose and configure camera settings (multiple FPS, resolution options) and view in a dedicated window.
-- **➕ Add to Home Screen:** Personalize by adding favorite apps—either as public or private apps.
-- **📇 Contacts & Call Logs:** Manage contacts, view call histories, and initiate calls directly.
-- **💬 SMS Manager:** View, fetch, and delete messages on your desktop.
-- **📂 File Manager:** Full-fledged file management integrated into Desktop Mode.
-- **Multi-App Handling:** Manage several Android apps concurrently with a dedicated plus button.
+### Controls & Customization
+- **🔳 Full-Screen Toggle:** Switch between full-screen and windowed modes
+- **🔔 Notifications:** Get real-time notifications from your Android device
+- **🔋 Battery & Status:** Monitor device battery levels and connectivity status
+- **🎵 Audio Streaming:** Stream audio from your Android device to your PC
+- **⌨️ Input Control:** Send keyboard and mouse inputs directly to your device
 
 ## 🛡️ Security & Privacy
 
 We prioritize your data security:
-- **Direct Device Communication:** All operations occur directly between devices—no cloud storage.
-- **Privacy-Focused:** We do not collect or track your data.
-- **Encryption Options:** Secure transfers with AES-256 encryption.
-- **Verified Connections:** Only authorized USB or Wi-Fi connections are allowed.
-- **Regular Updates:** Receive continuous security patches and protocol updates.
+- **Direct Device Communication:** All operations occur directly between devices—no cloud storage
+- **Privacy-Focused:** We do not collect or track your data
+- **Encryption Options:** Secure transfers with AES-256 encryption
+- **Verified Connections:** Only authorized USB or Wi-Fi connections are allowed
+- **Regular Updates:** Receive continuous security patches and protocol updates
 
 ## 📚 Comprehensive Documentation
 
-Find everything you need to maximize your ADB Manager experience:
-- [Complete User Guide](https://docs.adbfilemanager.com/windows/guide)
-- [Video Tutorials](https://docs.adbfilemanager.com/videos)
-- [Troubleshooting](https://docs.adbfilemanager.com/troubleshoot)
-- [Developer API](https://docs.adbfilemanager.com/api)
+Find everything you need to maximize your experience:
+- [Complete User Guide](https://docs.androidmultidevicemanager.com/windows/guide)
+- [Video Tutorials](https://docs.androidmultidevicemanager.com/videos)
+- [Troubleshooting](https://docs.androidmultidevicemanager.com/troubleshoot)
+- [Developer API](https://docs.androidmultidevicemanager.com/api)
 
 ## ❓ FAQ
 
 <details>
   <summary><b>Do I need to install separate Android drivers?</b></summary>
-  In most cases, no. ADB Manager includes universal drivers and installs them automatically if needed. Some specific devices may require manufacturer drivers.
+  In most cases, no. Our manager includes universal drivers and installs them automatically if needed. Some specific devices may require manufacturer drivers.
 </details>
 
 <details>
   <summary><b>Is root access required on my Android device?</b></summary>
-  No! ADB Manager works perfectly with non-rooted devices, though rooted devices unlock additional capabilities.
+  No! Our application works perfectly with non-rooted devices, though rooted devices unlock additional capabilities.
 </details>
 
 <details>
-  <summary><b>Can I transfer files wirelessly?</b></summary>
-  Yes! With both devices on the same Wi-Fi network, you can enable wireless ADB mode for cable-free file management.
+  <summary><b>How does the companion app impact battery life?</b></summary>
+  The Android companion app is optimized for low battery usage. It only sends notifications when they occur and uses minimal resources in the background.
 </details>
 
 <details>
-  <summary><b>How does ADB Manager compare to MTP?</b></summary>
-  Benchmarks show ADB Manager offers 3-10x faster transfer speeds than standard MTP, depending on file types and device models.
+  <summary><b>Can I use all three connection methods with any Android device?</b></summary>
+  USB connections work with all Android devices. QR code and wireless pairing require Android 11+ for the best experience, though basic functionality works on Android 7+.
 </details>
 
 <details>
-  <summary><b>Can I use ADB Manager with Android Studio?</b></summary>
-  Absolutely! It integrates perfectly with Android Studio, providing a visual file manager that complements your development workflow.
+  <summary><b>Will the app continue working when my PC restarts?</b></summary>
+  Yes! Our application can automatically start with Windows and reconnect to previously paired devices, ensuring seamless continuity.
 </details>
 
 ## 🎮 User Experiences
@@ -186,17 +187,17 @@ Find everything you need to maximize your ADB Manager experience:
       <td width="33%" align="center">
         <b>David K.</b> - Software Engineer<br>
         ⭐⭐⭐⭐⭐<br>
-        <small><i>"Finally a file manager that doesn't make me want to throw my phone across the room. Lightning fast transfers and the terminal integration is perfect for dev work."</i></small>
+        <small><i>"The desktop mode is a game-changer for app testing. I can run multiple Android apps side by side while coding on my PC."</i></small>
       </td>
       <td width="33%" align="center">
-        <b>Sarah T.</b> - Photographer<br>
+        <b>Sarah T.</b> - Content Creator<br>
         ⭐⭐⭐⭐⭐<br>
-        <small><i>"I transfer thousands of RAW photos from my Android weekly. This tool cut my workflow time in half with batch processing and smart organization."</i></small>
+        <small><i>"Being able to manage multiple devices at once has streamlined my workflow. The notification sync means I never miss important alerts."</i></small>
       </td>
       <td width="33%" align="center">
         <b>Michael R.</b> - IT Admin<br>
         ⭐⭐⭐⭐⭐<br>
-        <small><i>"Managing our company's 50+ test devices used to be a nightmare. Now I can update files across all connected devices simultaneously."</i></small>
+        <small><i>"Managing our company's 50+ test devices used to be a nightmare. Now I can update, control, and monitor them all from one interface."</i></small>
       </td>
     </tr>
   </table>
@@ -204,35 +205,41 @@ Find everything you need to maximize your ADB Manager experience:
 
 ## 🔄 Update Policy
 
-- **Automatic Updates:** Receive new features and security patches automatically.
-- **Release Cycle:** Major updates quarterly, maintenance releases monthly.
-- **Long-Term Support:** Windows 10/11 support guaranteed through 2026.
-- **Update Channels:** Choose between stable, beta, or developer preview channels.
-- **Delta Updates:** Minimal download sizes for efficient updates.
+- **Automatic Updates:** Receive new features and security patches automatically
+- **Release Cycle:** Major updates quarterly, maintenance releases monthly
+- **Long-Term Support:** Windows 10/11 support guaranteed through 2026
+- **Update Channels:** Choose between stable, beta, or developer preview channels
+- **Delta Updates:** Minimal download sizes for efficient updates
 
 ## 🛠️ Troubleshooting & Support
 
 Need help? We've got you covered:
-- **In-App Help:** Access context-sensitive help directly within the application.
-- **Live Chat Support:** Get real-time assistance from our technical team.
-- **Community Forums:** [forums.adbfilemanager.com](https://forums.adbfilemanager.com)
-- **Knowledge Base:** [support.adbfilemanager.com](https://support.adbfilemanager.com)
-- **Email:** help@adbfilemanager.com (24-48 hour response)
-- **Discord:** [Join our community](https://discord.gg/adbfilemanager)
+- **In-App Help:** Access context-sensitive help directly within the application
+- **Live Chat Support:** Get real-time assistance from our technical team
+- **Community Forums:** [forums.androidmultidevicemanager.com](https://forums.androidmultidevicemanager.com)
+- **Knowledge Base:** [support.androidmultidevicemanager.com](https://support.androidmultidevicemanager.com)
+- **Email:** help@androidmultidevicemanager.com (24-48 hour response)
+- **Discord:** [Join our community](https://discord.gg/androidmultidevicemanager)
+
+## 📊 Project Technical Overview
+- **💻 Total Lines of Code:** 50,000+
+- **⚙️ Built Using:** Flutter, ADB, scrcpy, and Windows services
+- **🖥️ Target Platform:** Windows (Desktop), with an Android companion app
+- **🔌 Connectivity:** USB, QR pairing, ADB wireless
 
 ## 🚀 Upcoming Features
 
-We're continually improving ADB Manager:
-- **Windows Context Menu Integration:** Right-click in Explorer to send files directly to your device.
-- **Cloud Bridge:** Seamless transfer between cloud storage and your device.
-- **Enhanced Device Screen Mirroring:** Direct control of your Android from Windows.
-- **Expanded Media Tools:** Built-in audio/video editing features.
-- **Multi-PC Sync:** Sync file operations across multiple Windows devices.
-- **Enhanced Security:** Biometric authentication for sensitive tasks.
+We're continually improving our application:
+- **Enhanced Multi-Device Dashboard:** View all connected devices in a unified control panel
+- **AI-Powered Device Analytics:** Get smart insights about app usage and performance
+- **Remote Device Access:** Control your Android devices from anywhere via secure internet connection
+- **Expanded Media Tools:** Built-in audio/video editing and streaming features
+- **Cross-Platform Support:** Mac and Linux versions coming soon
+- **Enhanced Security:** Biometric authentication for sensitive tasks
 
 ## 📄 License
 
-ADB Manager is licensed under the GNU General Public License v2.0 – see the [LICENSE](LICENSE) file for complete details.
+Our software is licensed under the GNU General Public License v2.0 – see the [LICENSE](LICENSE) file for complete details.
 
 ---
 
@@ -240,10 +247,10 @@ ADB Manager is licensed under the GNU General Public License v2.0 – see the [L
   <img src="assets/images/windows-certified.png" width="120"/>
   <p>Optimized for Windows 10 & 11</p>
   <br>
-  <p>© 2023 ADB Manager Team. All rights reserved.</p>
+  <p>© 2023 Android ADB Multi-Device Manager Team. All rights reserved.</p>
   <p>
-    <a href="https://adbfilemanager.com/privacy">Privacy Policy</a> •
-    <a href="https://adbfilemanager.com/terms">Terms of Use</a> •
-    <a href="https://adbfilemanager.com/attribution">Attributions</a>
+    <a href="https://androidmultidevicemanager.com/privacy">Privacy Policy</a> •
+    <a href="https://androidmultidevicemanager.com/terms">Terms of Use</a> •
+    <a href="https://androidmultidevicemanager.com/attribution">Attributions</a>
   </p>
 </div>
