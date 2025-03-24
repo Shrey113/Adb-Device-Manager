@@ -8,23 +8,12 @@
   [![Windows Build](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows)](https://www.microsoft.com/windows)
   [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
   [![License](https://img.shields.io/badge/License-GPL_v2-blue.svg)](LICENSE)
-  
+  <br>
+  <br>
   <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/" style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 28px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; margin-top: 15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     ⬇️ DOWNLOAD LATEST VERSION
   </a>
 </div>
-
-<p align="center">
-  <a href="#-key-features">Features</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage-highlights">Usage</a> •
-  <a href="#-desktop-mode">Desktop Mode</a> •
-  <a href="#-faq">FAQ</a> •
-  <a href="#-user-experiences">User Experiences</a> •
-  <a href="#-technical-overview">Technical Overview</a> •
-  <a href="#-upcoming-features">Upcoming Features</a> •
-  <a href="#-license">License</a>
-</p>
 
 ## 🚀 Seamless Android Management on Windows
 
