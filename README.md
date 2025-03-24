@@ -184,30 +184,6 @@ We place the highest priority on your security and privacy, ensuring that your d
   <p>Yes, the application is designed to automatically start with Windows and re-establish connections with previously paired devices, ensuring continuous management without interruption.</p>
 </details>
 
-## 🎮 User Experiences
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <b>David K.</b> - Software Engineer<br>
-        ⭐⭐⭐⭐⭐<br>
-        <small><i>"The desktop mode revolutionized my workflow. Its multi-window system and detailed control panel let me efficiently manage several devices at once."</i></small>
-      </td>
-      <td width="33%" align="center">
-        <b>Sarah T.</b> - Content Creator<br>
-        ⭐⭐⭐⭐⭐<br>
-        <small><i>"Managing multiple devices has never been simpler. The real-time notification sync and intuitive file transfer have boosted my productivity immensely."</i></small>
-      </td>
-      <td width="33%" align="center">
-        <b>Michael R.</b> - IT Admin<br>
-        ⭐⭐⭐⭐⭐<br>
-        <small><i>"This tool streamlines the management of our large test fleet. The robust logging, connection stability, and detailed device metrics are invaluable."</i></small>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 Project Technical Overview
 
 - **💻 Total Lines of Code:** Over 50,000 lines of meticulously crafted code ensure reliable performance and scalability.
@@ -233,8 +209,6 @@ Our software is licensed under the GNU General Public License v2.0 – see the [
 ---
 
 <div align="center">
-  <img src="assets/images/windows-certified.png" width="120"/>
-  <p>Optimized for Windows 10 & 11</p>
   <br>
   <p>© 2023 Android ADB Multi-Device Manager Team. All rights reserved.</p>
   <p>
