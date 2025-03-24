@@ -1,10 +1,4 @@
-# Ignore all .log files
-*.log
 /adb_devices.iss
-.gitattributes
-.gitignore
-/build/
-/images/
+/adb_devices.exe
 
-# Ignore environment files
-.env
+
