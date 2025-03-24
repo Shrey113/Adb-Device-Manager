@@ -2,7 +2,7 @@
 *.log
 /adb_devices.iss
 .gitattributes
-# .gitignore
+.gitignore
 /build/
 /images/
 
