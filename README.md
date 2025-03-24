@@ -62,71 +62,67 @@
 
 ## 🏆 Premium Capabilities
 
-Experience a full-fledged Android environment right from your Windows desktop. Whether you’re a developer, power user, or just someone looking for ultimate convenience, these premium features ensure seamless integration between your PC and Android devices.
+Experience a full-fledged Android environment directly on your Windows desktop. Whether you’re a developer, power user, or casual enthusiast, these premium features ensure seamless integration between your PC and Android devices—all while delivering a lively and intuitive user experience.
 
-1. **Full Android Environment in Windows**  
-   - **Multi-Window Interface:** Launch Android apps in separate, resizable windows on your PC, just like native Windows programs.  
-   - **Desktop-Level Navigation:** Use the familiar Windows taskbar, minimize/maximize buttons, and drag-and-drop actions for an intuitive workflow.  
-   - **Customizable Layouts:** Arrange multiple app windows side by side or stack them in your preferred layout for optimal multitasking.
+1. **:iphone: Full Android Environment in Windows**  
+   - **Multi-Window Interface:** Launch Android apps in separate, resizable windows, just like native Windows programs.  
+   - **Desktop-Level Navigation:** Enjoy minimize, maximize, and drag-and-drop actions for an intuitive workflow.  
+   - **Custom Layouts:** Arrange multiple app windows side by side or stack them for optimal multitasking.
 
-2. **Real-Time Screen Mirroring**  
-   - **Low-Latency Display:** Mirror your device screen to Windows with minimal delay, ensuring smooth interactions and quick responsiveness.  
-   - **Adaptive Quality:** Automatically adjust resolution and frame rate based on your device specs and network conditions to balance performance and clarity.  
-   - **Multi-Device Support:** View and control multiple Android devices simultaneously, each in its own window.
+2. **:tv: Real-Time Screen Mirroring**  
+   - **Low-Latency Display:** Mirror your device screen with minimal delay, ensuring smooth interactions.  
+   - **Adaptive Quality:** Automatically adjust resolution and frame rate to balance performance and clarity.  
+   - **Multi-Device View:** Control and view multiple Android devices at once, each in its own window.
 
-3. **Real-Time Audio Streaming**  
-   - **Full Audio Pass-Through:** Hear your device’s audio (music, notifications, calls, etc.) directly through your PC speakers or headset.  
-   - **Volume & Mixing Controls:** Manage volume levels per device, allowing you to balance or mute audio sources as needed.  
-   - **Synchronized Media Playback:** Watch videos or play games on your phone while enjoying perfectly synced audio on your PC.
+3. **:loud_sound: Real-Time Audio Streaming**  
+   - **Full Audio Pass-Through:** Hear your device’s audio (music, notifications, calls) on your PC speakers or headset.  
+   - **Volume & Mixing Controls:** Balance or mute different devices independently.  
+   - **Synced Media Playback:** Watch videos or play games on your phone while listening to perfectly synced audio on your PC.
 
-4. **Keyboard & Mouse Sync**  
-   - **Complete Input Control:** Use your PC’s keyboard and mouse to type, swipe, scroll, and tap on your Android device—no more awkward on-screen keyboards.  
-   - **Advanced Shortcuts:** Assign custom keyboard shortcuts for actions like home, back, recents, or even launching specific Android apps.  
-   - **Gesture Emulation:** Simulate multi-touch gestures (pinch-to-zoom, rotate, etc.) directly from your mouse or trackpad.
+4. **:keyboard: Keyboard & Mouse Sync**  
+   - **Complete Input Control:** Type, swipe, scroll, and tap using your PC’s keyboard and mouse.  
+   - **Advanced Shortcuts:** Assign hotkeys for common Android actions (Home, Back, Recents) or specific apps.  
+   - **Gesture Emulation:** Simulate pinch-to-zoom, rotate, and other multi-touch gestures via your mouse or trackpad.
 
-5. **APK Installer via ADB**  
-   - **One-Click Installations:** Quickly install or update Android apps (APKs) from your PC with an easy drag-and-drop or file selection interface.  
-   - **Batch Operations:** Install multiple APKs at once and track progress with real-time status updates.  
-   - **Version Control:** View version details before installing or updating, helping you keep track of app changes and dependencies.
+5. **:package: APK Installer via ADB**  
+   - **One-Click Installations:** Drag and drop APK files to install or update Android apps instantly.  
+   - **Batch Operations:** Install multiple APKs simultaneously, with real-time status indicators.  
+   - **Version Control:** Check app versions before installing or updating to maintain compatibility.
 
-6. **Full Camera Access**  
-   - **Remote Camera Control:** Open and use your phone’s camera directly from your PC, ideal for surveillance, testing, or live demonstrations.  
-   - **Multi-Camera Switching:** If your phone supports multiple lenses (e.g., wide-angle, telephoto), switch between them without touching the device.  
-   - **Capture & Save:** Instantly take photos or record video and save them either on your phone or directly to your PC’s hard drive.
+6. **:camera: Full Camera Access**  
+   - **Remote Camera Control:** Open and use your phone’s camera from your PC, perfect for demonstrations or surveillance.  
+   - **Multi-Lens Support:** Switch between wide-angle, telephoto, or selfie cams without touching your phone.  
+   - **Capture & Save:** Snap photos or record video, saving them either on your phone or directly to your PC.
 
-7. **Full Contacts & Call Management**  
-   - **Contacts Sync:** Browse, edit, and manage your entire Android contact list from a dedicated Windows interface.  
-   - **Call Initiation:** Make phone calls using your PC’s microphone and speakers, or switch to a headset for privacy.  
-   - **Call Logs & History:** Keep track of incoming, outgoing, and missed calls, and quickly return calls from your PC.
+7. **:telephone_receiver: Full Contacts & Call Management**  
+   - **Contacts Sync:** Browse, edit, and manage your Android contact list in a dedicated Windows interface.  
+   - **Initiate Calls:** Dial numbers using your PC’s mic and speakers or a connected headset.  
+   - **Call Logs:** Access your complete call history, including missed, incoming, and outgoing calls.
 
-8. **SMS & Messaging Control**  
-   - **Send & Receive Messages:** Type text messages using your PC’s keyboard, and view all conversation threads in a clear, expanded window.  
-   - **Media Attachments:** Drag and drop images or files from your PC into SMS/MMS conversations for quick sharing.  
-   - **Notifications & Alerts:** Get instant pop-ups on your desktop whenever a new message arrives, with quick-reply options.
+8. **:speech_balloon: SMS & Messaging Control**  
+   - **Send & Receive Messages:** Type text messages on your PC’s keyboard and view all conversation threads in an expanded window.  
+   - **Media Attachments:** Drag and drop files or images from your PC into SMS/MMS conversations.  
+   - **Instant Notifications:** Get pop-up alerts for new messages with quick-reply options.
 
-9. **Advanced File Explorer**  
-   - **Two-Way File Transfers:** Move files from your PC to Android or vice versa with simple drag-and-drop functionality.  
-   - **Folder Navigation & Search:** Browse your device’s internal or external storage as if it were a local drive on your PC, complete with folder hierarchies and advanced search tools.  
-   - **Batch Operations:** Copy, move, rename, or delete multiple files at once for efficient file management.
+9. **:open_file_folder: Advanced File Explorer**  
+   - **Two-Way Transfers:** Move files between your PC and Android device via drag-and-drop or a dedicated file manager.  
+   - **Folder Navigation & Search:** Explore internal or external storage as if it were a local PC drive.  
+   - **Batch Operations:** Copy, move, rename, or delete multiple files at once for efficient management.
 
-10. **Always-On Connectivity**  
-   - **Background Service:** Maintain active connections even when the main window is closed, ensuring you never miss an alert or notification.  
-   - **Auto-Reconnect:** Automatically re-establish connections after device restarts, PC reboots, or network changes.  
-   - **Security & Permissions:** Control which apps or features remain active in the background, and set granular permissions for added peace of mind.
-
----
-
-### How the Screenshot Illustrates These Capabilities
-
-The image you provided showcases an Android home screen mirrored onto a Windows environment. You can see:
-- **Active Android Apps:** Icons like Calculator, Clock, and others displayed on the desktop-like interface.  
-- **System Controls:** A bottom navigation bar resembling typical Android controls (Home, Back, Recents), integrated smoothly with Windows UI elements.  
-- **Desktop Environment:** A Windows-like taskbar and wallpaper, confirming how the Android screen is running in parallel with your PC’s native system.
-
-These elements highlight the core of our **Premium Capabilities**: a complete Android experience, embedded right within your Windows workflow.
-
+10. **:arrows_counterclockwise: Always-On Connectivity**  
+    - **Background Service:** Keep connections active even when the main window is closed, so you never miss an alert.  
+    - **Auto-Reconnect:** Re-establish connections automatically after device restarts or PC reboots.  
+    - **Granular Permissions:** Configure which apps or features run in the background, enhancing both security and convenience.
 
 ## 📥 Installation
+
+
+### Detailed Setup Process
+1. **Download the Installer:** Get the latest installer from our [GitHub releases page](https://github.com/Shrey113/Adb-Device-Manager/releases/).
+2. **Execute the Installer:** Run the installer with administrator privileges to ensure full access to necessary system resources.
+3. **Follow the Wizard:** An intuitive setup wizard will guide you through the installation process, including driver installation, configuration options, and service setup.
+4. **Connect Your Devices:** Once installed, attach your Android devices via USB or configure wireless connections. Make sure USB debugging is enabled on each device.
+5. **Authorize and Start:** Approve any prompts on your Android device to establish secure connections. Launch the application and explore its in-depth control panels and settings.
 
 ### System Requirements
 - **OS:** Windows 10 (version 1809 or later) or Windows 11, ensuring compatibility and performance.
@@ -134,13 +130,6 @@ These elements highlight the core of our **Premium Capabilities**: a complete An
 - **Storage:** At least 250MB of free space for installation, temporary files, and logs.
 - **Ports:** USB 2.0 minimum (USB 3.0 or higher recommended for enhanced transfer speeds).
 - **Internet:** Necessary for initial installation, downloading updates, and driver support.
-
-### Detailed Setup Process
-1. **Download the Installer:** Get the latest installer from our [official website](https://androidmultidevicemanager.com/download) or the [GitHub releases page](https://github.com/yourusername/android_multi_device_manager/releases).
-2. **Execute the Installer:** Run the installer with administrator privileges to ensure full access to necessary system resources.
-3. **Follow the Wizard:** An intuitive setup wizard will guide you through the installation process, including driver installation, configuration options, and service setup.
-4. **Connect Your Devices:** Once installed, attach your Android devices via USB or configure wireless connections. Make sure USB debugging is enabled on each device.
-5. **Authorize and Start:** Approve any prompts on your Android device to establish secure connections. Launch the application and explore its in-depth control panels and settings.
 
 ## 💻 Usage Highlights
 
@@ -156,21 +145,6 @@ These elements highlight the core of our **Premium Capabilities**: a complete An
 - **Customize Your Experience:** Adjust settings like transfer speeds, mirroring quality, and connection parameters to suit your workflow.
 - **Access Detailed Analytics:** Monitor comprehensive logs, usage statistics, and performance analytics to optimize device management and troubleshoot issues quickly.
 
-## 🖥️ Desktop Mode
-
-Experience a revolutionary Desktop Mode designed to transform your interaction with Android apps on Windows.
-
-### Enhanced Desktop Experience
-- **Multi-Application Handling:** Run several Android apps side by side in a flexible windowed environment. Resize, reposition, and overlay apps to create an optimal workspace.
-- **Drag & Drop Window System:** Easily move and organize app windows using a simple drag & drop interface, similar to modern desktop operating systems.
-- **Persistent App State:** Applications retain their state even when you switch between them, allowing for uninterrupted workflows.
-- **Customizable Layouts:** Choose from preset layouts such as grid or cascade, or create your own custom arrangement to maximize productivity.
-
-### Integrated Android Functions
-- **Contacts & Call Logs:** Access and manage your Android contacts and call logs directly from the desktop. View detailed histories and initiate calls with a single click.
-- **Camera & Multimedia Integration:** Use your device’s camera remotely, and manage multimedia files with integrated gallery and editing tools.
-- **File Explorer Integration:** Browse and manage device storage with an interface that mirrors a traditional file explorer, including advanced search and sort features.
-- **APK Management:** Install, update, or uninstall Android applications with a dedicated app management interface that provides version histories and update notifications.
 
 ## 🛡️ Security & Privacy
 
