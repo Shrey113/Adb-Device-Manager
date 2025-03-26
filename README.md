@@ -25,6 +25,35 @@
 - **Real-Time Synchronization:** Receive notifications, alerts, and call updates on your PC instantly.
 - **Comprehensive Device Management:** Control screens, audio, files, contacts, and more through a unified interface.
 
+## ✨ Key Features
+
+<div align="center">
+  <table style="border-spacing: 20px;">
+    <tr>
+      <td align="center">
+        <img src="images/key_features/multiple_apps.png" width="800"><br>
+        <b>📱 Multi-Device Management</b><br>
+        Connect multiple devices via USB, QR code scanning, or wireless ADB pairing. Monitor connection statuses, view detailed logs, and switch seamlessly between devices.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="images/key_features/Explorer.png" width="800"><br>
+        <b>🖥️ Desktop Mode</b><br>
+        Run Android apps in a Windows-like windowed environment with drag & drop capabilities, multi-app handling, and customizable window arrangements.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="images/key_features/other.png" width="700"><br>
+        <b>🔗 Deep Windows Integration</b><br>
+        Enjoy background services, automatic startup support, and real-time notification/call synchronization using our dedicated companion app.
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## 🤖 AI-Powered Device Management
 
 Our newest addition brings intelligent, voice-activated control to your Android device management experience. Using advanced natural language processing, our AI system transforms how you interact with your connected devices.
@@ -33,14 +62,14 @@ Our newest addition brings intelligent, voice-activated control to your Android 
   <table style="border-spacing: 20px;">
     <tr>
       <td align="center">
-        <img src="images/key_features/ai_assistant.png" width="800"><br>
+        <img src="images/Ai_addon/Voice Command System.png" width="800"><br>
         <b>🎙️ Voice Command System</b><br>
         Control your Android devices using natural voice commands. Set alarms, navigate screens, control media playback, and execute ADB commands with simple spoken instructions.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="images/key_features/ai_command.png" width="800"><br>
+        <img src="images/Ai_addon/Command Terminal.png" width="800"><br>
         <b>⌨️ Intelligent Command Terminal</b><br>
         Access a powerful command-line interface with AI prediction and auto-completion. Execute complex ADB operations with minimal typing and receive real-time feedback.
       </td>
@@ -80,33 +109,7 @@ Our newest addition brings intelligent, voice-activated control to your Android 
    - **Voice Personalization:** Choose from different voice options with adjustable speech rates and tones.
    - **Multilingual Support:** Interact with the AI in multiple languages (coming soon).
 
-## ✨ Key Features
 
-<div align="center">
-  <table style="border-spacing: 20px;">
-    <tr>
-      <td align="center">
-        <img src="images/key_features/multiple_apps.png" width="800"><br>
-        <b>📱 Multi-Device Management</b><br>
-        Connect multiple devices via USB, QR code scanning, or wireless ADB pairing. Monitor connection statuses, view detailed logs, and switch seamlessly between devices.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="images/key_features/Explorer.png" width="800"><br>
-        <b>🖥️ Desktop Mode</b><br>
-        Run Android apps in a Windows-like windowed environment with drag & drop capabilities, multi-app handling, and customizable window arrangements.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="images/key_features/other.png" width="700"><br>
-        <b>🔗 Deep Windows Integration</b><br>
-        Enjoy background services, automatic startup support, and real-time notification/call synchronization using our dedicated companion app.
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🏆 Premium Capabilities
 
