@@ -25,6 +25,61 @@
 - **Real-Time Synchronization:** Receive notifications, alerts, and call updates on your PC instantly.
 - **Comprehensive Device Management:** Control screens, audio, files, contacts, and more through a unified interface.
 
+## 🤖 AI-Powered Device Management
+
+Our newest addition brings intelligent, voice-activated control to your Android device management experience. Using advanced natural language processing, our AI system transforms how you interact with your connected devices.
+
+<div align="center">
+  <table style="border-spacing: 20px;">
+    <tr>
+      <td align="center">
+        <img src="images/key_features/ai_assistant.png" width="800"><br>
+        <b>🎙️ Voice Command System</b><br>
+        Control your Android devices using natural voice commands. Set alarms, navigate screens, control media playback, and execute ADB commands with simple spoken instructions.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="images/key_features/ai_command.png" width="800"><br>
+        <b>⌨️ Intelligent Command Terminal</b><br>
+        Access a powerful command-line interface with AI prediction and auto-completion. Execute complex ADB operations with minimal typing and receive real-time feedback.
+      </td>
+    </tr>
+  </table>
+</div>
+
+### AI Features and Capabilities
+
+1. **:speech_balloon: Natural Language Device Control**  
+   - **Voice-Activated Commands:** Control your Android device with simple spoken instructions.
+   - **Context-Aware Processing:** Our AI understands complex requests like "Set an alarm for 7:30 AM" or "Open camera on my Pixel device."
+   - **Multi-Device Voice Targeting:** Specify which device should execute your command in multi-device setups.
+
+2. **:musical_note: Media Control Intelligence**  
+   - **Smart Media Commands:** Use natural phrases like "play next song" or "pause music" to control media on your device.
+   - **Volume Management:** Adjust device volume with voice commands like "increase volume" or "mute."
+   - **Context-Based Playback Control:** The AI understands media-specific commands and executes the appropriate key sequences.
+
+3. **:alarm_clock: Smart Scheduling & Alarms**  
+   - **Natural Time Setting:** Set alarms using everyday language like "wake me up at 6 tomorrow" or "set alarm for 9:30 PM."
+   - **Time Format Flexibility:** The system recognizes various time formats (12/24 hour) and contextual references.
+   - **Confirmation Feedback:** Receive clear audio and visual confirmation when schedules are set.
+
+4. **:zap: One-Touch Device Actions**  
+   - **Screen Management:** Lock or unlock screens, take screenshots, adjust brightness with simple commands.
+   - **Navigation Controls:** Navigate device interfaces with commands like "go back," "show home screen," or "open recent apps."
+   - **System Controls:** Execute common system actions through an intuitive command palette.
+
+5. **:robot: Command Terminal with AI Enhancement**  
+   - **Intelligent Command Completion:** Get smart suggestions as you type ADB commands.
+   - **Natural-to-Technical Translation:** Enter plain English descriptions that convert to proper ADB commands.
+   - **Command History & Learning:** The system remembers your frequent commands and improves suggestions over time.
+
+6. **:ear: Responsive Voice Feedback**  
+   - **Audible Confirmations:** Receive spoken feedback confirming command execution or explaining errors.
+   - **Voice Personalization:** Choose from different voice options with adjustable speech rates and tones.
+   - **Multilingual Support:** Interact with the AI in multiple languages (coming soon).
+
 ## ✨ Key Features
 
 <div align="center">
@@ -130,7 +185,7 @@ Experience a full-fledged Android environment directly on your Windows desktop. 
 - **Connection & Pairing:** Seamlessly connect devices through USB, QR code, or wireless ADB pairing. Detailed connection logs and status indicators help you track and manage each device.
 - **File Transfer & Synchronization:** Enjoy an advanced file transfer system that supports drag & drop, scheduled transfers, batch processing, and real-time synchronization between your PC and devices.
 - **Screen Mirroring & Casting:** Mirror your Android device's screen with minimal latency. Customize quality, resolution, and audio streaming options for the best viewing experience.
-- **Screen Mirroring & Casting:** Mirror your Android device’s screen with minimal latency. Customize quality, resolution, and audio streaming options for the best viewing experience.
+- **Screen Mirroring & Casting:** Mirror your Android device's screen with minimal latency. Customize quality, resolution, and audio streaming options for the best viewing experience.
 - **Application Control:** Open Android apps in separate windows, resize and rearrange them on your desktop, and use built-in shortcuts for enhanced multitasking.
 - **Notification Management:** View and manage incoming notifications with a fully customizable interface that lets you prioritize alerts and set up dedicated notification channels.
 
@@ -138,6 +193,8 @@ Experience a full-fledged Android environment directly on your Windows desktop. 
 - **Optimize Multi-Device Workflows:** Leverage custom keyboard shortcuts, personalized layouts, and background services to handle multiple devices efficiently.
 - **Customize Your Experience:** Adjust settings like transfer speeds, mirroring quality, and connection parameters to suit your workflow.
 - **Access Detailed Analytics:** Monitor comprehensive logs, usage statistics, and performance analytics to optimize device management and troubleshoot issues quickly.
+- **Voice Command Mastery:** Learn the full range of AI voice commands to control your devices hands-free. Try combining commands for complex operations.
+- **Command-Line Expertise:** Use the AI-enhanced terminal to execute complex ADB commands with minimal typing—the system learns from your patterns.
 
 
 ## 🛡️ Security & Privacy
@@ -155,7 +212,7 @@ We place the highest priority on your security and privacy, ensuring that your d
 
 <details>
   <summary><b>Do I need to install separate Android drivers?</b></summary>
-  <p>In most cases, the application automatically installs universal drivers for device communication. For some specific models, manufacturer drivers may be required; these can be downloaded from the respective manufacturer’s website.</p>
+  <p>In most cases, the application automatically installs universal drivers for device communication. For some specific models, manufacturer drivers may be required; these can be downloaded from the respective manufacturer's website.</p>
 </details>
 
 <details>
@@ -178,10 +235,21 @@ We place the highest priority on your security and privacy, ensuring that your d
   <p>Yes, the application is designed to automatically start with Windows and re-establish connections with previously paired devices, ensuring continuous management without interruption.</p>
 </details>
 
+<details>
+  <summary><b>How accurate is the voice recognition for AI commands?</b></summary>
+  <p>Our voice recognition system has been optimized for device management commands with high accuracy. It works best in moderately quiet environments and can recognize various accents and speech patterns. The system also improves over time as it learns from your interactions.</p>
+</details>
+
+<details>
+  <summary><b>Can I use the AI features with multiple connected devices?</b></summary>
+  <p>Yes! You can specify which device should receive your commands, or set a default device for voice commands. The AI is intelligent enough to understand contextual device references like "take a screenshot on my Samsung phone" versus "play music on my tablet."</p>
+</details>
+
 ## 📊 Project Technical Overview
 
 - **💻 Total Lines of Code:** Over 50,000 lines of meticulously crafted code ensure reliable performance and scalability.
 - **⚙️ Built Using:** Developed with Flutter, ADB, scrcpy, and integrated Windows background services for a seamless experience.
+- **🧠 AI Components:** Incorporates advanced natural language processing for voice commands and intelligent command processing.
 - **🖥️ Target Platform:** Optimized for Windows Desktop, accompanied by a dedicated Android companion app to enhance device functionality.
 - **🔌 Connectivity:** Supports USB, QR code scanning, and wireless ADB pairing for flexible, reliable connections.
 - **🛠️ Modular Architecture:** Designed with modularity in mind, facilitating easy integration of new features and tools as technology evolves.
@@ -195,6 +263,7 @@ Our development team is continuously innovating. Planned enhancements include:
 - **Expanded Media Tools:** Integrated audio/video editing and streaming capabilities that bring creative control directly to your desktop.
 - **Cross-Platform Support:** Future releases will include native support for macOS and Linux environments.
 - **Enhanced Security Options:** Additional layers of security such as biometric authentication and multi-factor verification for sensitive operations.
+- **Custom Voice Command Creation:** Define your own custom voice commands and macros to automate complex sequences of operations.
 
 ## 📄 License
 
