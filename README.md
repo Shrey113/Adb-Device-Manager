@@ -13,6 +13,11 @@
   <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/" style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 28px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; margin-top: 15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     ⬇️ DOWNLOAD LATEST VERSION
   </a>
+  <div align="center">
+  <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ" style="display: inline-block; background-color: #0077B5; color: white; padding: 12px 24px; text-decoration: none; font-size: 16px; font-weight: bold; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+    🎬 Watch Video Demonstration
+  </a>
+</div>
 </div>
 
 ## 🚀 Seamless Android Management on Windows
@@ -25,11 +30,7 @@
 - **Real-Time Synchronization:** Receive notifications, alerts, and call updates on your PC instantly.
 - **Comprehensive Device Management:** Control screens, audio, files, contacts, and more through a unified interface.
 
-<div align="center">
-  <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ" style="display: inline-block; background-color: #0077B5; color: white; padding: 12px 24px; text-decoration: none; font-size: 16px; font-weight: bold; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;">
-    🎬 Watch Video Demonstration
-  </a>
-</div>
+
 
 ## ✨ Key Features
 
