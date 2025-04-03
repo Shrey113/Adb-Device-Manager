@@ -11,34 +11,16 @@
   <br>
   <br>
   
-  <div align="center" style="background-color: #121212; padding: 40px; border-radius: 12px; max-width: 650px; margin: 0 auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5); text-align: center;">
-  <h2 style="color: white; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; margin-bottom: 30px; text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);">
-    Android ADB Multi-Device Manager
-  </h2>
-
-  <!-- Download Button -->
-  <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/"
-    style="display: inline-block; background: linear-gradient(135deg, #00FF88, #007755); color: white; text-decoration: none; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 16px; padding: 14px 36px; margin: 10px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 255, 136, 0.3); transition: all 0.3s ease-in-out; width: 100%; max-width: 320px;">
-    <span style="display: flex; align-items: center; justify-content: center;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
-        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-        <polyline points="7 10 12 15 17 10"></polyline>
-        <line x1="12" y1="15" x2="12" y2="3"></line>
-      </svg>
-      DOWNLOAD LATEST VERSION
-    </span>
+  <h3>Android ADB Multi-Device Manager</h3>
+  
+  <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/">
+    <img src="https://img.shields.io/static/v1?label=&message=⬇️%20DOWNLOAD%20LATEST%20VERSION&color=00b09b&style=for-the-badge&logo=android&logoColor=white" alt="Download Latest Version" width="320">
   </a>
-
-  <!-- Watch Video Button -->
-  <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ"
-    style="display: inline-block; background: linear-gradient(135deg, #A133FF, #6100FF); color: white; text-decoration: none; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 16px; padding: 14px 36px; margin: 10px; border-radius: 8px; box-shadow: 0 4px 12px rgba(161, 51, 255, 0.3); transition: all 0.3s ease-in-out; width: 100%; max-width: 320px;">
-    <span style="display: flex; align-items: center; justify-content: center;">
-      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
-        <circle cx="12" cy="12" r="10"></circle>
-        <polygon points="10 8 16 12 10 16 10 8" fill="currentColor"></polygon>
-      </svg>
-      WATCH VIDEO DEMONSTRATION
-    </span>
+  
+  <br><br>
+  
+  <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ">
+    <img src="https://img.shields.io/static/v1?label=&message=🎬%20WATCH%20VIDEO%20DEMONSTRATION&color=6100FF&style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch Video Demonstration" width="320">
   </a>
 </div>
 
