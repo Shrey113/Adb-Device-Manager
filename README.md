@@ -11,18 +11,17 @@
   <br>
   <br>
   
-  <div style="background-color: #1a1a1a; padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5); margin: 20px auto; max-width: 600px;">
-    <h3 style="color: white; margin-bottom: 25px; font-size: 22px;">The Ultimate Android Device Management Solution for Windows</h3>
-    
-    <div style="display: flex; flex-direction: column; gap: 15px; align-items: center;">
-      <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/" style="display: inline-block; background: linear-gradient(135deg, #00b09b, #007bff); color: white; padding: 16px 28px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 12px; width: 80%; text-align: center; box-shadow: 0 6px 15px rgba(0, 123, 255, 0.4); transition: all 0.3s ease; border: none; text-transform: uppercase; letter-spacing: 1px;">
-        ⬇️ DOWNLOAD LATEST VERSION
+  <div align="center">
+    <p>
+      <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/">
+        <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20LATEST%20VERSION-00b09b?style=for-the-badge&labelColor=1a1a1a&color=00b09b" alt="Download Latest Version" width="320">
       </a>
-      
-      <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ" style="display: inline-block; background: linear-gradient(135deg, #6C4BF6, #8E2DE2); color: white; padding: 16px 28px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 12px; width: 80%; text-align: center; box-shadow: 0 6px 15px rgba(142, 45, 226, 0.4); transition: all 0.3s ease; border: none; letter-spacing: 1px;">
-        🎬 WATCH VIDEO DEMONSTRATION
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ">
+        <img src="https://img.shields.io/badge/🎬%20WATCH%20VIDEO%20DEMONSTRATION-8E2DE2?style=for-the-badge&labelColor=1a1a1a&color=8E2DE2" alt="Watch Video Demonstration" width="320">
       </a>
-    </div>
+    </p>
   </div>
 </div>
 
