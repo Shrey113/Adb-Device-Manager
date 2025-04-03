@@ -10,20 +10,15 @@
   [![License](https://img.shields.io/badge/License-GPL_v2-blue.svg)](LICENSE)
   <br>
   <br>
-  
-  <h3>Android ADB Multi-Device Manager</h3>
-  
-  <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/">
-    <img src="https://img.shields.io/static/v1?label=&message=⬇️%20DOWNLOAD%20LATEST%20VERSION&color=00b09b&style=for-the-badge&logo=android&logoColor=white" alt="Download Latest Version" width="320">
+  <a href="https://github.com/Shrey113/Adb-Device-Manager/releases/" style="display: inline-block; background-color: #4CAF50; color: white; padding: 12px 28px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; margin-top: 15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    ⬇️ DOWNLOAD LATEST VERSION
   </a>
-  
-  <br><br>
-  
-  <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ">
-    <img src="https://img.shields.io/static/v1?label=&message=🎬%20WATCH%20VIDEO%20DEMONSTRATION&color=6100FF&style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch Video Demonstration" width="320">
+  <div align="center">
+  <a href="https://www.linkedin.com/posts/shrey-patel-207440318_adb-android-windowsintegration-activity-7313307027542278145-VUYt/?rcm=ACoAAFCCtScBKTYGqHCtX7PkHVgzdRhdjZui4NQ" style="display: inline-block; background-color: #0077B5; color: white; padding: 12px 24px; text-decoration: none; font-size: 16px; font-weight: bold; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+    🎬 Watch Video Demonstration
   </a>
 </div>
-
+</div>
 
 ## 🚀 Seamless Android Management on Windows
 
