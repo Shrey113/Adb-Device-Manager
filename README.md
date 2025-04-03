@@ -28,18 +28,10 @@
 ## ✨ Key Features
 
 <div align="center">
-
+<div align="center">
+  
+</div>
   <table style="border-spacing: 20px;">
-    <tr>
-      <td align="center">
-         <video width="800" controls>
-    <source src="images/ADB devices manager.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-        <b>📱 </b><br>
-           </tr>
-      </td>
-    </tr>
     <tr>
       <td align="center">
         <img src="images/key_features/multiple_apps.png" width="800"><br>
