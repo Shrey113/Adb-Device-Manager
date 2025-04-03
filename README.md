@@ -37,7 +37,7 @@
     Your browser does not support the video tag.
   </video>
         <b>📱 </b><br>
-       
+           </tr>
       </td>
     </tr>
     <tr>
