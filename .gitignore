@@ -1,4 +1,5 @@
 /adb_devices.iss
 /adb_devices.exe
-
+/set.py
+/inno_setup_sources.py
 
